@@ -1,7 +1,5 @@
 # Risk Management Project
 
-Conducted a comprehensive risk management assessment for a private organization.
-
 ## Project Overview
 Conducted a comprehensive security risk management assessment for a
 retail organization with multiple branches. The assessment covered
